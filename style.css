@@ -12,6 +12,13 @@ font-size: 40px;
 }
 
 section {
-
+background-color:rgb(145, 249, 253);
+padding: 30px;
+margin-top: 15px;
     display: flex;
+}
+
+.chamada_texto{
+
+    margin-right:4%;
 }
