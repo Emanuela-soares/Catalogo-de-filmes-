@@ -4,9 +4,13 @@ body{
 }
 
 header {
-text-align: 50px;
+text-align: center;
 color: rgb(241, 245, 5);
 border-bottom: solid 5px rgb(4, 145, 4);
 
 }
 
+section {
+
+    display: flex;
+}
