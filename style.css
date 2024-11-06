@@ -1,13 +1,13 @@
 body{
     background-color: black; 
-    color: red;
+    color: yellow;
     font-family: "Lobster", sans-serif;
 
 }
 
 header {
 text-align: center;
-color: rgb(241, 245, 5);
+color: red;
 border-bottom: solid 5px rgba(252, 6, 6, 0.858);
 font-size: 40px;
 font-family: "Rubik Wet Paint", system-ui;
