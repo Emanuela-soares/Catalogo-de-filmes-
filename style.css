@@ -1,6 +1,8 @@
 body{
     background-color: black; 
     color: red;
+    font-family: "Lobster", sans-serif;
+
 }
 
 header {
@@ -14,7 +16,7 @@ font-family: "Rubik Wet Paint", system-ui;
 }
 
 section {
-background-color:rgb(145, 249, 253);
+background-color:black;
 padding: 30px;
 margin-top: 15px;
     display: flex;
